@@ -1,3 +1,6 @@
 # python_learning
 noting to read
-叠个甲
+
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
