@@ -9,7 +9,7 @@ def CheckTime(time_remain,h1,m1,h2,m2):
     hour_remain = time_remain // 60
     mins_remain = time_remain % 60
     if (mins_remain + m1) >= 60 :
-        if ((mins_remain + m1) == (60 + m2)) and ((hour_remain + h1) == (1+h2)) :
+        if ((mins_remain + m1) == (60 + m2)) and ((hour_remain + h1) == (h2 - 1)) :
             return True
         else:
             return False
@@ -40,4 +40,4 @@ while True:
         mins_now = time_now[4]  
     total_times += 1  
     print('{} mins already'.format(total_times))
-    os.system('notepad e:\\code\\py\\alarm\\alarm.txt')
+    os.system("& '.\\py\\alarm.jpg'")
