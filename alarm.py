@@ -40,4 +40,4 @@ while True:
         mins_now = time_now[4]  
     total_times += 1  
     print('{} mins already'.format(total_times))
-    os.system("& '.\\py\\alarm.jpg'")
+    os.system('.\\py\\alarm.jpg')
