@@ -5,6 +5,9 @@
 * 1
 * 2
 * 3
+
 [and here goes a link](www.baidu.com)
+
 try *italic*is ti good?
-and the code`print(hello,world)`
+and the code
+`print(hello,world)`
