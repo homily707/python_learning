@@ -9,11 +9,10 @@
 [and here goes a link](www.baidu.com)
 
 try *italic*
-and the code
+and the code  
 `print(hello,world)                                                                                                                                      
 a = b + c`
-
-why can not wrap line auto
+why can not wrap line auto  
 because i start a list?
 try again
 1. one
